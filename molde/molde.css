@@ -1,0 +1,35 @@
+/* Ajuste como quiser*/
+
+*{padding: 0; margin: 0; box-sizing: border-box;}
+body{
+    font: normal 15pt arial;
+    text-align: center;
+}
+.content01{
+    width: 600px;
+    margin: auto;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.301);
+}
+header h1{
+    margin-bottom: 20px;
+}
+.questao, .enunciado{
+    width:500px;
+}
+.aside-enun{
+    position: absolute;
+    top: 0; left: 0;
+    
+}  
+.questao{
+    /*border-right:px solid rgb(36, 114, 179);*/
+    border-left: 10px solid rgb(36, 114, 179);
+    background-color: rgb(148, 185, 226);
+}
+.enunciado{
+    position: relative;
+    top: 0;
+    border: 1px solid rgba(0, 0, 0, 0.082);
+}
