@@ -1,9 +1,8 @@
-<
+
 - 👋 Olá, sou Hítalo Lima
 - 👀 Estudante de Informática
 - 🌱 Tenho 15 anos
 - ✔  Maracanaú/CE
-/>
 
 <!---
 Hitalo-Lima/Hitalo-Lima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
