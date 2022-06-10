@@ -1,6 +1,6 @@
 ### Olá, me chamo Hítalo 👋
 
-- Tenho 16 anos
+- Tenho 17 anos
 - Atualmente estou estudando na escola E.E.E.P Luíza de Teodoro Vieira no 3° ano;
 - Cursando técnico em informática - 3/3;
 - Busco sempre aprender mais e solucionar problemas;
