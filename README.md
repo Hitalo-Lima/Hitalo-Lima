@@ -7,21 +7,18 @@
 
 <div align="left">
   <a href="https://github.com/hitalo-lima">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hitalo-lima&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitalo-lima&layout=compact&langs_count=7&theme=nightowl"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hitalo-lima&theme=nightowl"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitalo-lima&theme=nightowl"/>
 </div>
   
   ## 
-  ### Linguagens que uso
+  ### Tecnologias que utilizo
   <div style="display: inline_block"><br>
   <img align="center" alt="Logo Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Logo HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Logo CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    
-  ##
-  ### Linguagens que estou estudando
   <img align="center" alt="Logo Bootstrap" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
-  <img align="center" alt="Logo React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-</div>
+  <img align="center" alt="Logo Git" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Logo GitHub" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   
 ![Snake animation](https://github.com/hitalo-lima/hitalo-lima/blob/output/github-contribution-grid-snake.svg)
