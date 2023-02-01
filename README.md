@@ -1,9 +1,14 @@
-# Olá, me chamo Hítalo 👋
 
-- Moro em Maracanaú, CE
-- Sou um desenvolvedor web e técnico em informática 👨‍💻
-- Estagiei como desenvolvedor na empresa ACX Digital 💻
-- Busco sempre uma evolução constante 🙏
+
+<img src="https://user-images.githubusercontent.com/73831127/216104506-435ec4a0-b379-44b2-b497-af1ab744da53.png" width="100%">
+
+## Olá, me chamo Hítalo 👋
+
+***
+
+- 👨‍💻 Sou um desenvolvedor web e técnico em informática 
+- 💻 Estagiei como desenvolvedor na empresa ACX Digital 
+- 🎯 Busco sempre uma evolução constante 
 
 <div align="left">
   <a href="https://github.com/hitalo-lima">
