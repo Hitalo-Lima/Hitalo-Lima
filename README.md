@@ -3,20 +3,13 @@
 ## 👋 Olá, me chamo Hítalo!
 
 - 👨‍💻 Sou graduado em Análise e Desenvolvimento de Sistemas e sou Técnico em Informática.
-- 💻 Estou atuando como estagiário no setor de T.I  na **DelRio Lingerie**.
+- 💻 Atualmente sou Analista de Sistemas Jr na **DelRio Lingerie**.
 - 🎯 Estou sempre em busca de evolução e aprendizado constante.
 - 🌱 Atualmente estudando *Java/Spring Boot* & *Angular*.
 
 ---
 
-## 📊 Minhas Estatísticas no GitHub
-
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hitalo-lima&show_icons=true&theme=nightowl&hide_border=true&count_private=true" alt="Estatísticas de Hítalo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitalo-lima&layout=compact&theme=nightowl&hide_border=true" alt="Linguagens mais usadas">
-</div>
-
-## 🚀 Tecnologias que utilizo
+## Tecnologias que utilizo
 
 ### 💻 *Desenvolvimento*
 <div style="display: inline-block; margin: 10px 0;">
