@@ -2,7 +2,7 @@
 
 <h1 align="center">Olá, eu sou o Hítalo Lima 👋</h1>
 <p align="center">
-  Analista de Sistemas Jr • Graduado em ADS • Técnico em Informática
+  Analista de Sistemas Jr • Graduado em Análise e Desenvolvimento de Sistemas • Técnico em Informática
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ## 🚀 Sobre mim
 
-Sou **Analista de Sistemas Jr na DelRio Lingerie**, com foco em evolução contínua e construção de soluções eficientes.
+Atuo como **Analista de Sistemas Jr**, com foco em evolução contínua e construção de soluções eficientes.
 Atualmente, estou aprofundando meus estudos em **Java/Spring Boot** e **Angular**.
 
 ---
