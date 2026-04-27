@@ -49,7 +49,6 @@ Atualmente, estou aprofundando meus estudos em **Java/Spring Boot** e **Angular*
 
 ---
 
-## 📫 Contato
-
-- **LinkedIn:** [linkedin.com/in/hitalo-lima](https://www.linkedin.com/in/hitalo-lima/)
-- **E-mail:** [hitalolima173@gmail.com](mailto:hitalolima173@gmail.com)
+<p align="center">
+  Obrigado por visitar meu perfil ✨
+</p>
