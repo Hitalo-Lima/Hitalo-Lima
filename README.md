@@ -1,38 +1,58 @@
 <img src="https://github.com/user-attachments/assets/9a7cbc15-ac28-4751-b04a-9dceeea285dd" alt="Banner" width="100%">
-          
+
 ## 👋 Olá, me chamo Hítalo!
 
-- 👨‍💻 Sou graduado em Análise e Desenvolvimento de Sistemas e sou Técnico em Informática.
-- 💻 Atualmente sou Analista de Sistemas Jr na **DelRio Lingerie**.
-- 🎯 Estou sempre em busca de evolução e aprendizado constante.
-- 🌱 Atualmente estudando *Java/Spring Boot* & *Angular*.
+- 👨‍💻 Graduado em Análise e Desenvolvimento de Sistemas e Técnico em Informática
+- 💼 Analista de Sistemas Jr na **DelRio**, desenvolvendo soluções com Java, Spring Boot e Angular
+- 🔗 Experiência em APIs REST, integração com ERPs, automação de fluxos e migração de sistemas legados
+- 🎯 Sempre em busca de evolução e aprendizado constante
 
 ---
 
-## Tecnologias que utilizo
+## 🛠️ Tecnologias & Ferramentas
 
-### 💻 *Desenvolvimento*
-<div style="display: inline-block; margin: 10px 0;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="50" width="60">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="SpringBoot" height="50" width="60">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" height="50" width="60">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="Angular" height="50" width="60">
-  <img     src="https://camo.githubusercontent.com/2044b98d3b416afd5421b8786c8971d3c45db42408c594763704025c79d53827/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f617a75726573716c64617461626173652f617a75726573716c64617461626173652d6f726967696e616c2e737667" alt="SQL" height="50" width="50">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" height="50" width="60">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" height="50" width="60">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" height="50" width="60">
-</div>
+### ☕ Back-end
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 
-### 🛠️ *Ferramentas*
-<div style="display: inline-block; margin: 10px 0;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" height="50" width="60">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="50" width="60">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" height="50" width="60">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" height="50" width="60">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" height="50" width="60">
-</div>
+</p>
+
+### 🌐 Front-end
+<p>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+### 🗄️ Banco de Dados
+<p>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+</p>
+
+### ⚙️ Ferramentas & DevOps
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+
+</p>
+
+---
 
 ## 📫 Contato
 
-- *LinkedIn*: [Meu perfil no LinkedIn](https://www.linkedin.com/in/hitalo-lima/)
-- *Email*: [hitalolima173@gmail.com](mailto:hitalolima173@gmail.com)
+<p>
+  <a href="https://www.linkedin.com/in/hitalo-lima/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:hitalolima173@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
